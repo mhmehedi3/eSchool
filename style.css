@@ -1,0 +1,100 @@
+.container{
+    margin-bottom: 100px;
+  margin-right:28px;
+}
+body {
+    background-color: #fafafa;
+    color: #101010;
+    line-height: 154%;
+    margin: 0;
+    overscroll-behavior: none;
+}
+.logo{
+    width: 25%;
+}
+.nav-item{
+    margin-left: 20px;
+    font-weight: 600;
+}
+.display{
+    display: flex;
+    background-image: linear-gradient(to bottom,white);
+    border: none;
+}
+.link1{
+    border: none;
+    border-radius: 20px;
+    background-color: rgba(42, 139, 44, 0.67);
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+#login{
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+.nav-link{
+    
+    color: white;
+}
+.para{
+    color: red;
+}
+.para2{
+    font-size: 45px;
+    font-weight: 700;
+}
+.para3{
+    
+    font-size: 45px;
+    font-weight: 700;
+    color: rgba(42, 139, 44, 0.67);
+}
+.pic{
+    margin-left: 45px;
+ 
+
+}
+.book{
+    width: 24%;
+    justify-content: center;
+    margin-left: 25px;
+    margin-bottom: 15px;
+
+    
+}
+h4{
+   color: rgb(82, 47, 209);
+}
+.online{
+display: flex;
+}
+.test{
+    display: flex;
+    justify-content: center;
+}
+.man{
+    width: 10%;
+}
+.monial{
+    text-align: center;
+}
+.card{
+    margin-right: 90px;
+}
+.last{
+    width: 100%;
+    height: 400px;
+    background-color: rgb(58, 55, 55);
+    display: flex;
+}
+.d{
+    color: white;
+    display: flex;
+    margin-right: 80px;
+    margin-left: 40px;
+    margin-top: 60px;
+}
